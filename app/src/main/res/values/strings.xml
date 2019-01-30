@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github Search</string>
+    <string name="search_user_name">Enter User Name or E-mail</string>
+    <string name="search_button">Search</string>
+    <string name="searching">Searching</string>
+    <string name="results_found">Results Found</string>
+    <string name="result_error"> Error Accord. Please Check Your Internet Connection.</string>
+</resources>
